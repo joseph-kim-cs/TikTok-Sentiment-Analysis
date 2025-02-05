@@ -1,4 +1,4 @@
-# TikTok Title Sentiment Analysis by Joseph Kim
+# TikTok Title Sentiment Analysis by Joseph Kim -- Python 3.9
 
 Extracting engagement and title data from the TikTok "For You" page through BeautifulSoup, and performing sentiment analysis through NLTK.
 
