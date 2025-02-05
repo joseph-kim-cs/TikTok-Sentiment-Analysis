@@ -7,4 +7,5 @@ Extracting engagement and title data from the TikTok "For You" page through Beau
 
 Legal: as per TikTok's 'robot.txt', webscraping HTML data from the TikTok website is allowed. 
 
-[visualization images]
+![image](https://github.com/user-attachments/assets/8ac6628e-e278-4d0c-b120-c3f2609876a5)
+
